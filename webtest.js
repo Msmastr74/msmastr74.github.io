@@ -8,7 +8,7 @@ const username = document.getElementById("username").value;
 const password = document.getElementById("password").value;
 const security = document.getElementById("security").value;
 const changing2 = document.getElementById("logedin");
-if ((username === "Msmastr74") && (password === "2406") && (security === "Far Cry 5")) {
+if ((username === "Msmastr74") && (password === "N/A") && (security === "Far Cry 5")) {
     changing2.innerHTML = "Thank you for logging in";
     console.log("sombody logged in!!!!");
 } else {
