@@ -3,6 +3,7 @@ function change() {
         const ref = document.getElementById("testr").value;
         changing.innerHTML = ref
     }
+// i need help with the login function. it's like its not even activating
 function login() {
 const username = document.getElementById("username").value;
 const password = document.getElementById("password").value;
