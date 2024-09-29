@@ -1,6 +1,11 @@
 h1 {
-color: gray;
+    color: gray;
+    text_align: center;
 }
 button {
     color: red;
+    text_align: center;
+}
+p {
+    text_align: center;
 }
